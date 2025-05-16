@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "3fb3daa97142a7d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "114467ec2c9742de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "71bd773d6b76af74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "physics/1. Электрический заряд. Закон Кулона..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. Электрический заряд. Закон Кулона."
+            }
+          },
+          {
+            "id": "d43f0041c9078a3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 1"
+            }
+          },
+          {
+            "id": "5ce90a4d00b1dcff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "physics/6. Применение теоремы Гаусса (цилиндрическая и плоская симметрия)..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6. Применение теоремы Гаусса (цилиндрическая и плоская симметрия)."
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9e602bdc9fac3645",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "d42ac9268bd777d4",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "00ab43937b4f47e9",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "b89702cca0733e6b",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "1460cd4d60c74cc7",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "be07363808585303",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "438174f03a7ceeed",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "physics/1. Электрический заряд. Закон Кулона..md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "a045b2f73bca0a2f",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "physics/1. Электрический заряд. Закон Кулона..md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "7d9dcd5810a667a6",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "physics/1. Электрический заряд. Закон Кулона..md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "5ce90a4d00b1dcff",
+  "lastOpenFiles": [
+    "Untitled 1.md",
+    "physics/6. Применение теоремы Гаусса (цилиндрическая и плоская симметрия)..md",
+    "Untitled.md",
+    "physics/1. Электрический заряд. Закон Кулона..md",
+    "physics/4. Теорема Гаусса для электрического поля в вакууме формулировка и доказательство..md"
+  ]
+}
